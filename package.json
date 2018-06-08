@@ -31,7 +31,7 @@
   "license": "MIT",
   "dependencies": {
     "ajv": "^5.5.2",
-    "swagger-parser": "^4.0.1"
+    "swagger-parser": "^5.0.0"
   },
   "devDependencies": {
     "body-parser": "^1.18.2",
